@@ -1,6 +1,3 @@
-
-
-```markdown
 # 🤖 Chatbot with Machine Learning and Python
 
 A simple AI chatbot built using Python, Natural Language Processing (NLP), and Machine Learning techniques. This project demonstrates how to train a basic intent-based chatbot using a custom dataset.
@@ -16,7 +13,7 @@ A simple AI chatbot built using Python, Natural Language Processing (NLP), and M
 - Easily extendable with more intents and responses
 
 ---
-
+```markdown
 ## 🗂️ Project Structure
 
 ```
