@@ -13,9 +13,9 @@ A simple AI chatbot built using Python, Natural Language Processing (NLP), and M
 - Easily extendable with more intents and responses
 
 ---
-```markdown
-## 🗂️ Project Structure
 
+## 🗂️ Project Structure
+```markdown
 ```
 
 ├── chat\_model/               # Trained model files
