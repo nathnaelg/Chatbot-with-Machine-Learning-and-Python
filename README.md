@@ -1,3 +1,6 @@
+
+
+```markdown
 # 🤖 Chatbot with Machine Learning and Python
 
 A simple AI chatbot built using Python, Natural Language Processing (NLP), and Machine Learning techniques. This project demonstrates how to train a basic intent-based chatbot using a custom dataset.
@@ -46,7 +49,13 @@ A simple AI chatbot built using Python, Natural Language Processing (NLP), and M
    source venv/bin/activate  # On Windows use: venv\Scripts\activate
    ```
 
-3. **Run the notebook**
+3. **Install the dependencies**
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+4. **Run the notebook**
    Open `Chat-Bot.ipynb` in Jupyter Notebook or Jupyter Lab and run all cells to train the model and interact with the chatbot.
 
 ---
@@ -114,3 +123,5 @@ Developed by [@nathnaelg](https://github.com/nathnaelg)
 ## 🌟 Star This Repo
 
 If you found this project helpful, please consider starring ⭐ the repository to show your support!
+
+```
