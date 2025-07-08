@@ -15,7 +15,6 @@ A simple AI chatbot built using Python, Natural Language Processing (NLP), and M
 ---
 
 ## 🗂️ Project Structure
-```markdown
 ```
 
 ├── chat\_model/               # Trained model files
@@ -27,9 +26,6 @@ A simple AI chatbot built using Python, Natural Language Processing (NLP), and M
 ├── LICENSE                   # License file
 └── .gitignore                # Files to ignore in git
 
-````
-
----
 
 ## 🛠️ Setup and Installation
 
@@ -121,4 +117,3 @@ Developed by [@nathnaelg](https://github.com/nathnaelg)
 
 If you found this project helpful, please consider starring ⭐ the repository to show your support!
 
-```
